@@ -1,6 +1,8 @@
 # Suicide Prediction with Advanced ML Techniques
 
-This is the final project for DS-UA 301, Advanced Techniques in ML and Deep Learning. 
+This is the final project for DS-UA 301, Advanced Techniques in ML and Deep Learning at NYU. 
+
+Author; Andy Wei
 
 ## Description
 
